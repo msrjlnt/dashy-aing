@@ -147,13 +147,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/rubenandre">
-            <img src="https://avatars.githubusercontent.com/u/9402773?v=4" width="80;" alt="rubenandre"/>
-            <br />
-            <sub><b>Rúben Silva</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/onedr0p">
             <img src="https://avatars.githubusercontent.com/u/213795?v=4" width="80;" alt="onedr0p"/>
             <br />
@@ -161,24 +154,31 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/alexdelprete">
-            <img src="https://avatars.githubusercontent.com/u/7027842?v=4" width="80;" alt="alexdelprete"/>
+        <a href="https://github.com/rubenandre">
+            <img src="https://avatars.githubusercontent.com/u/9402773?v=4" width="80;" alt="rubenandre"/>
             <br />
-            <sub><b>Alessandro Del Prete</b></sub>
+            <sub><b>Rúben Silva</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/BOZG">
-            <img src="https://avatars.githubusercontent.com/u/6022344?v=4" width="80;" alt="BOZG"/>
+        <a href="https://github.com/patrickheeney">
+            <img src="https://avatars.githubusercontent.com/u/1407228?v=4" width="80;" alt="patrickheeney"/>
             <br />
-            <sub><b>Stephen Rigney</b></sub>
+            <sub><b>Patrick Heeney</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/moemoeq">
-            <img src="https://avatars.githubusercontent.com/u/1808434?v=4" width="80;" alt="moemoeq"/>
+        <a href="https://github.com/k073l">
+            <img src="https://avatars.githubusercontent.com/u/21180271?v=4" width="80;" alt="k073l"/>
             <br />
-            <sub><b>CHAIYEON CHO</b></sub>
+            <sub><b>K073l</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/thomaswienecke">
+            <img src="https://avatars.githubusercontent.com/u/11446531?v=4" width="80;" alt="thomaswienecke"/>
+            <br />
+            <sub><b>Thomas Wienecke</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -190,24 +190,24 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/thomaswienecke">
-            <img src="https://avatars.githubusercontent.com/u/11446531?v=4" width="80;" alt="thomaswienecke"/>
+        <a href="https://github.com/moemoeq">
+            <img src="https://avatars.githubusercontent.com/u/1808434?v=4" width="80;" alt="moemoeq"/>
             <br />
-            <sub><b>Thomas Wienecke</b></sub>
+            <sub><b>CHAIYEON CHO</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/k073l">
-            <img src="https://avatars.githubusercontent.com/u/21180271?v=4" width="80;" alt="k073l"/>
+        <a href="https://github.com/BOZG">
+            <img src="https://avatars.githubusercontent.com/u/6022344?v=4" width="80;" alt="BOZG"/>
             <br />
-            <sub><b>K073l</b></sub>
+            <sub><b>Stephen Rigney</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/patrickheeney">
-            <img src="https://avatars.githubusercontent.com/u/1407228?v=4" width="80;" alt="patrickheeney"/>
+        <a href="https://github.com/alexdelprete">
+            <img src="https://avatars.githubusercontent.com/u/7027842?v=4" width="80;" alt="alexdelprete"/>
             <br />
-            <sub><b>Patrick Heeney</b></sub>
+            <sub><b>Alessandro Del Prete</b></sub>
         </a>
     </td>
     <td align="center">
